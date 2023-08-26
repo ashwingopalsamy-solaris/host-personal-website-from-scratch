@@ -1,0 +1,12 @@
+{
+  "name": "host-personal-website-from-scratch",
+  "version": "1.0.0",
+  "description": "this repo will be used to build a personal website from scratch and host it via netlify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
