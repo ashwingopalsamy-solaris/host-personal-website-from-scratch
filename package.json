@@ -1,12 +1,20 @@
 {
-  "name": "host-personal-website-from-scratch",
-  "version": "1.0.0",
-  "description": "this repo will be used to build a personal website from scratch and host it via netlify.",
+  "name": "ashwingopalsamy-personalsite-fromscratch",
+  "version": "0.0.1",
+  "description": "this project houses the code i've written from scratch to host my personal website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "github.com/ashwin2125/host-personal-website-from-scratch"
+  },
+  "keywords": [
+    "vannillajs",
+    "html",
+    "css"
+  ],
+  "author": "Ashwin Gopalsamy",
   "license": "ISC"
 }
